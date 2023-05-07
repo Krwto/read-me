@@ -1,5 +1,5 @@
 <div align="center">
-<h1> :wave: Hi, I’m @Krwto </h1>
+<h1> :wave: Hi, I’m @Mamicim </h1>
 <p> I'm a working man slowly learning to code❤ </p>
 
 
